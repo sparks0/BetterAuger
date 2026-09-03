@@ -18,8 +18,11 @@ Currently this repo is only used to host the version get of the chrome extension
 ---------------------------------------        V1.3        ----------------------------------------
  24 04 2025
 - Fixed an Auger update causing Better Auger to spam the column order of the home page
-- ---------------------------------------        V1.4        ----------------------------------------
+---------------------------------------        V1.4        ----------------------------------------
 29 07 2025
 - Fixed an issue with the splashes updater that caused the extension to crash
+---------------------------------------        V1.5        ----------------------------------------
+03 09 2026
+- Updated the project to support the recent changes in the Auger update
 
 **************************************************************************************************/
